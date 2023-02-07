@@ -2,7 +2,7 @@
 
 Context and date: 
 
-Description: Play as a UFO trying to obliterate space ships and plants!
+Description: Play as a UFO trying to obliterate meteroids, a foe space ship, and more!
 
 ## Implementation
 Godot
