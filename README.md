@@ -13,6 +13,10 @@ The explosion spritesheet was released into the public domain by StumpyStrust.
 
 The UFO spritesheet was released into the public domain by mieki256.
 
+Asteroid sprites were released into the public domain by phaelax.
+
+The background image was released into the public domain by esahubble.org.
+
 The Hyperspace typeface was developed by Pixel Sagas and is freely available for personal use.
 
 ## References
