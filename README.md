@@ -1,6 +1,6 @@
 # 02 Space Shooter
 
-Context and date: 
+I created this game for a class assignment at Indiana University.
 
 Description: Play as a UFO trying to obliterate meteroids, a foe space ship, and more!
 
