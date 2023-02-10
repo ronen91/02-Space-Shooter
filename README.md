@@ -1,17 +1,14 @@
-# 02 Space Shooter
+# Project Name
 
-Context and date: 
+Context and date
 
-Description: Play as a UFO trying to obliterate space ships and plants!
+Description
 
 ## Implementation
-Godot
+Which features you included
 
 ## References
-Atari Asteroids
 
 ## Future Development
-None
 
 ## Created by
-Ronen Fisher
