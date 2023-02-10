@@ -2,7 +2,7 @@
 
 I created this game for a class assignment at Indiana University.
 
-Description: Play as a UFO trying to obliterate meteroids, a foe space ship, and more!
+Description: Play as a UFO trying to obliterate anything that stands in your way!
 
 ## Implementation
 Created using Godot 3.5.1
