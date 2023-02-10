@@ -22,7 +22,7 @@ func _ready():
 func _physics_process(_delta):
 	Planet = get_node_or_null("/root/Game/Planet")
 	if Planet != null:
-		var gravity = global_position.direction_to(Planet.global_position)*1/pow(global_position.direction_to(Planet.global_position),2)*planet_mass
+		var gravity = global_position.direction_to(Planet.global_position)*1/pow(global_position.distance_to(Planet.global_position),2)*planet_mass
 		velocity += gravity
 	velocity += get_input()*speed
 	velocity = velocity.normalized() * clamp(velocity.length(), 0, max_speed)
