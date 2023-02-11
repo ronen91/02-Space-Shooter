@@ -4,7 +4,7 @@ var velocity = Vector2.ZERO
 var speed = 5.0
 var max_speed = 400.0
 var rot_speed = 5.0
-var planet_mass = 10000.0
+var planet_mass = 100000.0
 
 var nose = Vector2(0, -70)
 

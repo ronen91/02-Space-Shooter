@@ -86,6 +86,6 @@ func load_scores():
 
 func save_scores():
 	var save_scores = File.new()
-	save_scores().open_encrypted_with_pass(SCORES, File.WRITE, SECRET)
+	save_scores.open_encrypted_with_pass(SCORES, File.WRITE, SECRET)
 	save_scores.store_string(to_json(scores))
 	save_scores.close()
